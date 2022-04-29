@@ -10,7 +10,7 @@ the dead movies with a few personal quotes.
 1. Night of the Living Dead (1968)
 2. Dawn of the Dead (1978)
 3. Day of the Dead (1985)
-4. George A. Romero
+4. George A. Romero (1940-2017)
  
 I haven't included quotes from the subsequent movies (Land, Diary, Survival)
 because ~~they arent as good~~ I have not had time, BUT if somebody would 
