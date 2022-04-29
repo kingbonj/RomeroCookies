@@ -2,8 +2,10 @@
 A database of quotes from the Godfather of zombies - the late great 
 **George A. Romero** - for the Unix fortune cookie.
 
+## Contents
+
 This database contains many lines of dialogue from his trilogy of 
-the dead movies with a few personal quotes thrown in for a laugh:
+the dead movies with a few personal quotes.
 
 1. Night of the Living Dead (1968)
 2. Dawn of the Dead (1978)
