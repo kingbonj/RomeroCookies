@@ -5,7 +5,8 @@ A database of quotes from the Godfather of zombies - the late great
 ## Contents
 
 This database contains 200+ lines of dialogue from his trilogy of 
-the dead movies with a few personal quotes.
+the dead movies and a small number of personal quotes from the man
+himself.
 
 1. Night of the Living Dead (1968)
 2. Dawn of the Dead (1978)
