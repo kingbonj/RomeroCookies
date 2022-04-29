@@ -28,9 +28,14 @@ the movies.
 $ make
 $ fortune [OPTIONS] romero
 ```
+The files *romero* and *romero.dat* can also be copied directly into
+the fortunes directory, for example:
+```
+/usr/share/games/fortunes/*
+```
 
 If you want to bring your terminal back from the dead, you'll add this 
-to the end of your bashrc so you can start every shell session with a
+to the end of your `~/bashrc` so you can start every shell session with a
 touch of nihilistic wisdom:
 ```
 fortune /path/to/romero
