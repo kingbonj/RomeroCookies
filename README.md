@@ -51,7 +51,10 @@ fortune /path/to/romero
                                  -- Peter - Dawn of the Dead (1978)
 
 "A-... a-... alloooooleeeeesha!"
-                                    -- Bub - Day of the Dead (1985)                                                       
+                                    -- Bub - Day of the Dead (1985)
+
+"I'm like my zombies. I won't stay dead!"
+                                                -- George A. Romero
 ```
 
 ## Warning
