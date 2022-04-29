@@ -35,7 +35,7 @@ $ sudo cp -v romero romero.dat /usr/share/games/fortunes/
 ```
 
 If you want to bring your terminal back from the dead, you'll add this 
-to the end of your `~/bashrc` so you can start every shell session with a
+to the end of your `~./bashrc` so you can start every shell session with a
 touch of nihilistic wisdom:
 ```
 $ fortune /path/to/romero
