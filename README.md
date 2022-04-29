@@ -31,7 +31,7 @@ $ fortune [OPTIONS] romero
 The files *romero* and *romero.dat* can also be copied directly into
 the fortunes directory, for example:
 ```
-/usr/share/games/fortunes/*
+cp -v romero romero.dat /usr/share/games/fortunes/
 ```
 
 If you want to bring your terminal back from the dead, you'll add this 
