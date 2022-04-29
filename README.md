@@ -26,7 +26,7 @@ the movies.
 ## Usage
 ```
 $ make
-$ fortune [OPTIONS] romero
+$ fortune romero
 ```
 The files *romero* and *romero.dat* can also be copied directly into
 the fortunes directory, for example:
@@ -35,10 +35,10 @@ $ sudo cp -v romero romero.dat /usr/share/games/fortunes/
 ```
 
 If you want to bring your terminal back from the dead, you'll add this 
-to the end of your `~./bashrc` so you can start every shell session with a
+to the end of your `~/.bashrc` so you can start every shell session with a
 touch of nihilistic wisdom:
 ```
-$ fortune /path/to/romero
+fortune /path/to/romero
 ```
 
 ## Examples
@@ -57,7 +57,8 @@ $ fortune /path/to/romero
 
 Some of the quotes are explicit, I have not edited them from the 
 original texts and there may be profanity. All rights belong to 
-the relevant copyright holders, this is simply a bit of fun.
+the relevant copyright holders, this is simply a bit of fun, and
+an homage to the filmmaker that has brought me so much happiness.
 
 
 ### Stay scared!
