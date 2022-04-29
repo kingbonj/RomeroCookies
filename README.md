@@ -1,4 +1,4 @@
-# RomeroFortuneCookie
+# RomeroCookies
 A database of quotes from the king of the dead - the late great George 
 A. Romero for the Unix fortune cookie.
 
