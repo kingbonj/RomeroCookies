@@ -14,7 +14,7 @@ himself.
 4. George A. Romero (1940-2017)
  
 I haven't included quotes from the subsequent movies (Land, Diary, Survival)
-because ~~they arent as good~~ I have not had time, BUT if somebody would 
+because ~~they aren't as good~~ I have not had time, BUT if somebody would 
 like to contribute these to the database that would be fantastic for fans of 
 the movies.
 
