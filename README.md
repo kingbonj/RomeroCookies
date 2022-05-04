@@ -23,6 +23,7 @@ the movies.
 - romero - *contains the fortunes*
 - romero.dat - *an index file, suitable for use with the Python fortune program*
 - Makefile - *a file for unix systems to build the database*
+- deadorundead.sh - *Fun script to check if George has returned from the grave yet*
 
 ## Usage
 ```
