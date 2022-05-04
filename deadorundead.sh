@@ -30,7 +30,7 @@ echo "                                     Stay Scared!"
 else
 DATE=$(date +"%Y")
     echo ""
-    echo "                          $GREEN$BOLD  George A. Romero (1940-$DATE)$NC"
+    echo "                          $GREEN$BOLD  George A. Romero (Alive -$DATE)$NC"
     echo "$RED$BLINK"
     echo "                           THERE IS NO MORE ROOM IN HELL"
     echo "                                  THE DEAD WALK!$NC"
