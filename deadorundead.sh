@@ -30,13 +30,13 @@ echo "                                     Stay Scared!"
 else
 DATE=$(date +"%Y")
     echo ""
-    echo "                          $GREEN$BOLD  George A. Romero (Alive -$DATE)$NC"
+    echo "                          $GREEN$BOLD George A. Romero (1940-2017-$DATE)$NC"
     echo "$RED$BLINK"
-    echo "                           THERE IS NO MORE ROOM IN HELL"
-    echo "                                  THE DEAD WALK!$NC"
+    echo "                             THERE IS NO MORE ROOM IN HELL"
+    echo "                                    THE DEAD WALK!$NC"
     echo ""
-    echo "                      https://www.wikihow.com/Survive-an-Apocalypse"
-    echo "$RED"
+    echo "                       https://www.wikihow.com/Survive-an-Apocalypse"
+    echo "$RED$DIM"
     echo "                                      Good Luck!"
     echo ""
 fi
